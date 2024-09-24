@@ -1,4 +1,8 @@
 Welcome to your new dbt project!
+### Requirements
+
+Local postgres running on your machine and a dbt profile setup for the `jaffle_shop` project.
+Follow instructions from here: https://docs.getdbt.com/guides/manual-install?step=1 (using postgres instead of BigQuery)
 
 ### Using the starter project
 
